@@ -5,11 +5,11 @@
   },
   "name": "discord-bot3543",
   "version": "0.0.1",
-  "main": "bot.js",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon --inspect bot.js",
-    "run": "node bot.js"
+    "test": "nodemon --inspect index.js",
+    "run": "node index.js"
   },
   "keywords": [],
   "author": "ZakGhost354313",
